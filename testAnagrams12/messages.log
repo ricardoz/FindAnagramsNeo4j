@@ -1,0 +1,43 @@
+2012-03-05 16:38:15.460+0000: Creating new db @ testAnagrams12\neostore
+2012-03-05 16:38:15.781+0000: Opened [testAnagrams12\nioneo_logical.log.1] clean empty log, version=0, lastTxId=1
+2012-03-05 16:38:15.826+0000: Opened [C:\Users\Miriam Martin\workspace\Find Anagrams\testAnagrams12\index\lucene.log.1] clean empty log, version=0, lastTxId=1
+2012-03-05 16:38:15.834+0000: TM new log: tm_tx_log.1
+2012-03-05 16:38:15.854+0000: --- CONFIGURATION START ---
+2012-03-05 16:38:15.854+0000: Physical mem: 3996MB, Heap size: 247MB
+2012-03-05 16:38:15.858+0000: Kernel version: Neo4j - Graph Database Kernel 1.5.M02
+2012-03-05 16:38:15.859+0000: Neo4j - Graph Database Kernel 1.5.M02
+2012-03-05 16:38:15.863+0000: Operating System: Windows 7; version: 6.1; arch: x86; cpus: 2
+2012-03-05 16:38:15.864+0000: VM Name: Java HotSpot(TM) Client VM
+2012-03-05 16:38:15.864+0000: VM Vendor: Oracle Corporation
+2012-03-05 16:38:15.864+0000: VM Version: 21.0-b17
+2012-03-05 16:38:15.864+0000: Boot Class Path: C:\Program Files (x86)\Java\jre7\lib\resources.jar;C:\Program Files (x86)\Java\jre7\lib\rt.jar;C:\Program Files (x86)\Java\jre7\lib\sunrsasign.jar;C:\Program Files (x86)\Java\jre7\lib\jsse.jar;C:\Program Files (x86)\Java\jre7\lib\jce.jar;C:\Program Files (x86)\Java\jre7\lib\charsets.jar;C:\Program Files (x86)\Java\jre7\classes
+2012-03-05 16:38:15.865+0000: Class Path: C:\Users\Miriam Martin\workspace\Find Anagrams\bin;C:\java\Neo4j\neo4j 1.5\lib\geronimo-jta_1.1_spec-1.1.1.jar;C:\java\Neo4j\neo4j 1.5\lib\lucene-core-3.1.0.jar;C:\java\Neo4j\neo4j 1.5\lib\neo4j-community-1.5.M02.jar;C:\java\Neo4j\neo4j 1.5\lib\neo4j-cypher-1.5.M02.jar;C:\java\Neo4j\neo4j 1.5\lib\neo4j-graph-algo-1.5.M02.jar;C:\java\Neo4j\neo4j 1.5\lib\neo4j-graph-matching-1.5.M02.jar;C:\java\Neo4j\neo4j 1.5\lib\neo4j-jmx-1.5.M02.jar;C:\java\Neo4j\neo4j 1.5\lib\neo4j-kernel-1.5.M02.jar;C:\java\Neo4j\neo4j 1.5\lib\neo4j-lucene-index-1.5.M02.jar;C:\java\Neo4j\neo4j 1.5\lib\neo4j-shell-1.5.M02.jar;C:\java\Neo4j\neo4j 1.5\lib\neo4j-udc-1.5.M02.jar;C:\java\Neo4j\neo4j 1.5\lib\org.apache.servicemix.bundles.jline-0.9.94_1.jar;C:\java\Neo4j\neo4j 1.5\lib\scala-library-2.9.0-1.jar;C:\java\Neo4j\neo4j 1.5\lib\server-api-1.5.M02.jar;C:\java\eclipse\eclipse\plugins\org.junit_4.8.2.v4_8_2_v20110321-1705\junit.jar;C:\java\eclipse\eclipse\plugins\org.hamcrest.core_1.1.0.v20090501071000.jar;C:\Users\Miriam Martin\workspace\HtmlUniitLogin\src;C:\Users\Miriam Martin\workspace\HtmlUniitLogin\bin;C:\java\Guice\guice-3.0\aopalliance.jar;C:\java\Guice\guice-3.0\guice-3.0.jar;C:\java\Guice\guice-3.0\guice-assistedinject-3.0.jar;C:\java\Guice\guice-3.0\guice-grapher-3.0.jar;C:\java\Guice\guice-3.0\guice-jmx-3.0.jar;C:\java\Guice\guice-3.0\guice-jndi-3.0.jar;C:\java\Guice\guice-3.0\guice-multibindings-3.0.jar;C:\java\Guice\guice-3.0\guice-persist-3.0.jar;C:\java\Guice\guice-3.0\guice-servlet-3.0.jar;C:\java\Guice\guice-3.0\guice-spring-3.0.jar;C:\java\Guice\guice-3.0\guice-struts2-plugin-3.0.jar;C:\java\Guice\guice-3.0\guice-throwingproviders-3.0.jar;C:\java\Guice\guice-3.0\javax.inject.jar;C:\java\Utilities\Guava\guava-10.0.1.jar
+2012-03-05 16:38:15.865+0000: Library Path: C:\Program Files (x86)\Java\jre7\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:/Program Files/Java/jre7/bin/client;C:/Program Files/Java/jre7/bin;C:/Program Files/Java/jre7/lib/i386;C:\java\Maven\apache-maven-3.0.3;C:\Program Files\Java\jre7\bin;C:\Program Files (x86)\Heroku;C:\Program Files (x86)\git\bin;C:\Program Files (x86)\git\cmd;C:\Ruby193\bin;C:\java\eclipse\eclipse;;.
+2012-03-05 16:38:15.868+0000: Garbage Collector: Copy: [Eden Space, Survivor Space]
+2012-03-05 16:38:15.868+0000: Garbage Collector: MarkSweepCompact: [Eden Space, Survivor Space, Tenured Gen, Perm Gen]
+2012-03-05 16:38:15.868+0000: VM Arguments: [-Dfile.encoding=Cp1252]
+2012-03-05 16:38:15.868+0000: 
+2012-03-05 16:38:15.871+0000: create=true
+2012-03-05 16:38:15.871+0000: logical_log=testAnagrams12\nioneo_logical.log
+2012-03-05 16:38:15.871+0000: neo_store=testAnagrams12\neostore
+2012-03-05 16:38:15.872+0000: neostore.nodestore.db.mapped_memory=20M
+2012-03-05 16:38:15.872+0000: neostore.propertystore.db.arrays.mapped_memory=130M
+2012-03-05 16:38:15.872+0000: neostore.propertystore.db.index.keys.mapped_memory=1M
+2012-03-05 16:38:15.872+0000: neostore.propertystore.db.index.mapped_memory=1M
+2012-03-05 16:38:15.872+0000: neostore.propertystore.db.mapped_memory=90M
+2012-03-05 16:38:15.872+0000: neostore.propertystore.db.strings.mapped_memory=130M
+2012-03-05 16:38:15.872+0000: neostore.relationshipstore.db.mapped_memory=100M
+2012-03-05 16:38:15.872+0000: node_auto_indexing=false
+2012-03-05 16:38:15.872+0000: rebuild_idgenerators_fast=true
+2012-03-05 16:38:15.873+0000: relationship_auto_indexing=false
+2012-03-05 16:38:15.873+0000: store_dir=testAnagrams12
+2012-03-05 16:38:15.873+0000: use_memory_mapped_buffers=false
+2012-03-05 16:38:15.873+0000: --- CONFIGURATION END ---
+2012-03-05 16:38:15.969+0000: Extension org.neo4j.kernel.KernelExtension[kernel jmx] loaded ok
+2012-03-05 16:38:15.971+0000: Extension org.neo4j.kernel.KernelExtension[shell] loaded ok
+2012-03-05 16:38:15.974+0000: Extension org.neo4j.kernel.KernelExtension[kernel udc] loaded ok
+2012-03-05 16:38:17.876+0000: Closed log testAnagrams12\nioneo_logical.log
+2012-03-05 16:38:17.983+0000: NeoStore closed
+2012-03-05 16:38:18.017+0000: Closed log C:\Users\Miriam Martin\workspace\Find Anagrams\testAnagrams12\index\lucene.log
+2012-03-05 16:38:18.017+0000: NeoStore closed
+2012-03-05 16:38:18.023+0000: TM shutting down
